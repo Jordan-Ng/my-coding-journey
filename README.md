@@ -6,3 +6,6 @@ I have just completed a 10 week full-stack web development bootcamp at NEXT Acad
 
 --Goals--
 While the curriculum at NEXT was fruitful, I have also realized that there is much to learn to hone my skills as a young full-stack developer. I am currently attempting challenges on Hackerrank (Javascript & python) and building single web page applications to hone my existing skills. I also wish to pick up new skills such as Redux and React Native. After all, a web developer never stops working!
+
+--books--
+Currently reading: Eloquent Javascript by Marijn Haverbeke
