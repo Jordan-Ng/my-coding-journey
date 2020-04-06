@@ -1,4 +1,4 @@
-# my-coding-journey
+# My-Coding-Journey
 Monthly logs to document my coding progress
 
 # April 2020
